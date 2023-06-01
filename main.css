@@ -4,6 +4,8 @@
     position: relative;
     width: 100px;
     border-radius: 50%;
+    display: flex;
+    align-items: center;
 }
 
 .face {
